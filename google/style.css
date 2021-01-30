@@ -9,7 +9,8 @@ body {
 .logo {
     display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 12%;
+  margin-top: 16%;
   width: 50%;
 }
 
@@ -31,7 +32,7 @@ body {
 }
 
 .about {
-    
+
 }
 .footer {
     display: flex;
