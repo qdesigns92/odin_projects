@@ -1,0 +1,43 @@
+body {
+    background-color: azure;
+    color: black;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+.logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.about {
+
+}
+
+.gmail {
+
+}
+
+.images {
+
+}
+
+.store {
+
+
+}
+
+.about {
+    
+}
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.search {
+    
+}
